@@ -17,9 +17,5 @@ A colleague and I were talking and he mused about how nice it would be to have a
 Awesome glyphs from within our feature phone portal sites. The conversation didn't last long, but the general 
 idea for a server-side renderer was conceived.
 
-I threw this class together over a few hours during a holiday. When I incorporate it into our larger system, I 
-will modify it slightly to add caching to files. I wouldn't use this class without adding caching first.
-
-It is definitely not finished in that you will have to modify it to make it fit into any projects.
-
-
+I threw this class together over a few hours during a holiday. You should add caching if you want to incorporate 
+it into any systems.
