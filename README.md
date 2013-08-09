@@ -20,6 +20,6 @@ idea for a server-side renderer was conceived.
 I threw this class together over a few hours during a holiday. When I incorporate it into our larger system, I 
 will modify it slightly to add caching to files. I wouldn't use this class without adding caching first.
 
-
+It is definitely not finished in that you will have to modify it to make it fit into any projects.
 
 
