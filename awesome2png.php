@@ -17,7 +17,8 @@ class Awesome2PNG
 	 *
 	 * The result is an awesome transparent PNG glyph with the character of 
 	 * choice rendered in the colour expected with the padding of choice 
-	 * applied. Padding must be positive values.
+	 * applied. Padding can be positive or negative. A negative value will cause 
+	 * the glyph to crop.
 	 *
 	 * Requires GD version 2, FreeType, and a FontAwesome TTF file
 	 *
